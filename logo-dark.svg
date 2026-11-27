@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 680 190" width="680" height="190" role="img" xmlns="http://www.w3.org/2000/svg">
+  <title>autoflow — AI automation (dark)</title>
+  <rect width="680" height="190" fill="#0f0e1a"/>
+  <path d="M 105,52 C 92,72 74,114 62,162" stroke="#fbbf24" stroke-width="5.5" fill="none" stroke-linecap="round"/>
+  <path d="M 105,52 C 118,72 136,114 148,162" stroke="#818cf8" stroke-width="5.5" fill="none" stroke-linecap="round"/>
+  <circle cx="105" cy="52" r="4" fill="#f1f5f9"/>
+  <text font-family="Arial,Helvetica,sans-serif" x="185" y="122" font-size="46" font-weight="500" fill="#f1f5f9" letter-spacing="-0.5">autoflow</text>
+  <text font-family="Arial,Helvetica,sans-serif" x="187" y="150" font-size="12" fill="#475569" letter-spacing="3.5">AI automation</text>
+</svg>

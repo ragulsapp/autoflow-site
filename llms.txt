@@ -1,0 +1,20 @@
+# AutoFlow
+
+> AutoFlow is a Chennai, Tamil Nadu-based automation studio building custom WhatsApp-first automations on n8n (self-hosted), the WhatsApp Cloud API, OpenRouter AI, and Google Sheets — for Tamil Nadu businesses such as salons, clinics, restaurants, real estate agents, digital agencies, e-commerce sellers, coaching institutes, car service centers, and jewellery shops.
+
+AutoFlow builds custom WhatsApp-first automations that replace ₹5,000–₹15,000/month tools like AiSensy, WATI, and Zapier — with a workflow the client owns, at a lower monthly cost. Unlike platform resellers who offer only broadcast messaging and click-to-reply bots, AutoFlow builds a full AI conversation layer that qualifies leads, confirms orders, sends invoices, and follows up customers automatically.
+
+## Services
+- [WhatsApp AI Business Bot](/services/whatsapp-ai-bot): an AI agent on WhatsApp handling bookings, FAQs, lead qualification, and follow-up.
+- [Smart Lead Pipeline](/services/lead-pipeline): multi-source lead capture (IndiaMART, JustDial, Facebook, website) with instant WhatsApp reply and AI qualification.
+- [E-Commerce Automation Stack](/services/ecommerce-stack): COD confirmation, order-status updates, review requests, and reorder alerts for Meesho/Amazon/Flipkart/Shopify sellers.
+
+## Pricing
+- [Pricing](/pricing): Starter ₹1,999/month, Growth ₹4,999/month (most popular), Pro ₹9,999/month. Month-to-month, no long-term contract.
+
+## Other pages
+- [Case Studies](/case-studies): real, live client automations — no fabricated metrics.
+- [Compare](/compare): AutoFlow vs. AiSensy, WATI, LeadSquared, Interakt, and Zapier, with real pricing.
+- [Integrations](/integrations): the full stack behind every automation.
+- [About](/about): who runs AutoFlow and why it's built the way it is.
+- [Contact](/contact): WhatsApp, phone, email, and social links — no contact form.
